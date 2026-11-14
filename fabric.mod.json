@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "orebloom",
+  "version": "${version}",
+  "name": "OreBloom",
+  "description": "Very dense Overworld generation for vanilla ores and resource blocks.",
+  "authors": [
+    "OreBloom"
+  ],
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "vn.orebloom.OreBloom"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

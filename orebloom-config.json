@@ -1,0 +1,33 @@
+{
+  "minecraft": "1.21.11",
+  "loader": "Fabric",
+  "feature_count": 20,
+  "attempts_per_feature_per_chunk": 20,
+  "height": [
+    -64,
+    319
+  ],
+  "feature_ids": [
+    "coal_ore",
+    "iron_ore",
+    "copper_ore",
+    "gold_ore",
+    "redstone_ore",
+    "lapis_ore",
+    "diamond_ore",
+    "emerald_ore",
+    "nether_quartz_ore",
+    "nether_gold_ore",
+    "ancient_debris",
+    "coal_block",
+    "iron_block",
+    "gold_block",
+    "netherite_block",
+    "diamond_block",
+    "emerald_block",
+    "lapis_block",
+    "raw_iron_block",
+    "raw_gold_block"
+  ],
+  "note": "Source project only; not compiled or runtime-tested."
+}
